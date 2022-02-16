@@ -3,6 +3,7 @@ import json
 import os
 import signal
 import sys
+import time
 from functools import partial
 
 from pynput import keyboard
@@ -142,6 +143,7 @@ def main():
     listener = keyboard.GlobalHotKeys(settings)
     listener.start()
     while True:
+        time.sleep(1)
         pass
 
 
