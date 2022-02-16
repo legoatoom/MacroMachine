@@ -5,7 +5,7 @@ Simple pynput hotkey ➔ commands, made for myself. You can look at the code if 
 No promises about the accuracy and reliability, if something goes wrong not my fault.
 
 I used pyinstaller to install it with `pyinstaller --onefile main.py -n=macromachine`
-make sure you have the libraies installed (see `main.py` for what imports I used).
+make sure you have the modules/packages/ect.. installed (see `main.py` for what imports I used).
 
 Then in you can run the macromachine file that was created via commandline.
 `macromachine` starts
