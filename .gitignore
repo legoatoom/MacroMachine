@@ -1,0 +1,10 @@
+/dist/
+/build/
+/macromachine.spec
+/venv/
+/.idea/.name
+/.idea/MacroMachine.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
