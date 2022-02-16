@@ -1,4 +1,4 @@
-# MacroMachine
+#  SimpleMacroMaker
 Simple pynput hotkey ➔ commands, made for myself. You can look at the code if you like.
 
 ## Really want to use it?
